@@ -1,0 +1,20 @@
+node_modules
+.env
+.gitattributes
+
+#Hardhat files
+artifacts
+cache
+
+#coverage files
+coverage
+coverage.json
+
+#OpenZeppelin files
+.openzeppelin
+
+#typechain files
+typechain
+
+#vscode config
+.vscode
